@@ -18,8 +18,8 @@ const Landing: React.FC =  () => {
         {/* Medium - Rounded Medium */}
         <Button title="Medium Button" styles="text-base rounded-md" />
         
-        {/* Large - Rounded Full */}
-        <Button title="Large Button" styles="text-lg rounded-lg" />
+        {/* Large - Rounded Large */}
+        <Button title="Large Button" styles="text-lg rounded-full" />
       </div>
     </div>
   )
